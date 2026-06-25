@@ -1,0 +1,10 @@
+# Python virtual environment (the toolbox — never commit this, it's huge & rebuildable)
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints (auto-saved scratch copies)
+.ipynb_checkpoints/
+
+# OS noise
+.DS_Store
